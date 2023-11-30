@@ -14,6 +14,7 @@ from file_storage import save_product_data
 
 class BarcodeScannerApp(App):
     def build(self):
+        return Label(text='Hello, Kivy!')
         # Create the main layout
         main_layout = BoxLayout(orientation='vertical', padding=10, spacing=10)
 
