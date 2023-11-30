@@ -1,0 +1,22 @@
+{
+  "PRODUCT_DATABASE": {
+    "6009684410918": {
+      "name": "Atlanta Brown Sugar",
+      "price": "R42.00",
+      "expiry_date": "2026-08-15",
+      "promotion": "20% off"
+    },
+    "6009522301262": {
+      "name": "tangy mayonnaise",
+      "price": "R45.00",
+      "expiry_date": "2024-03-30",
+      "promotion": "Buy one, get one free"
+    },
+    "6001582051132": {
+      "name": "excella sunflower oil",
+      "price": "R78.00",
+      "expiry_date": "2025-08-29'",
+      "promotion": "10% discount"
+    }
+  }
+}
