@@ -1,6 +1,11 @@
 #!/usr/bin/python3
 """ Kivy provides a set of UI components that i
 can use to create my app's interface"""
+import os
+os.environ['KIVY_NO_FILELOG'] = '1'
+os.environ['KIVY_NO_CONSOLELOG'] = '1'
+os.environ['KIVY_NO_MTDEV'] = '1'
+
 from kivy.app import App
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.label import Label
